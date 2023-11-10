@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mythic-rain-404717",
+  "private_key_id": "176959db5d8eca45a435cdc769c818d835dd5ac5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjLZRnN61rFmaE\nSfuQBiRPSmg6jwap4b0Ge3y154UA86G2MaWsBpHQB/KA2uovPfCuoNDX+etdc7TN\nvwQpE8Fgr7R72SyF73U4TvZL10jLNaxhhMxEpRT97cfNQWjnlMTxz63VekZ2tmgQ\nW3LdxYBQuIGjd6FfNkuKSiVO5ReMcsfR4p1SNTY8UUnWiZCFT73v4aObreKi1qB8\nmekJm0O8LoX3U3pOqvTaLcBqTcBiFd08m4bYfnXZPwaJKDpjitjgF1Gl/uGFT7RB\nZJg/mkJjYonVR+oTyOYMPt6SUTLjfCtno3SZi9FiJN83++kvhlplLuINsJ4X9YJx\noB8P6dEBAgMBAAECggEABA+bVOJG15ZsILiyoQf2GV8RrvtmQA4VJTcniGNlpPtr\nN9yOcfSL5nB8MYbBM0HIXqAz8lwO5nl9s20gjmEme+CDjl1+RSsLcMZOTN7jueLx\nElA6wS6Wkic7xLjvAmxqZlYzzk9Ht6acemO8PRawNdIRr97HTlZMlPl5ajg7WMxs\nTaJILvxYBdUH2HB9EJYrUUKVh6hu4ZlRef+rBLl4KNSzUJ4fP1WWkWArIOD3xSs3\nxW7cnGLlNGQWa9GAmbgdBXGzN80A+Mg62TfCiDi/KbVxWVb5NpvtHr3DwVS73a/0\nIPlb+buBwMs12P+x0dJNtKvmon+qz2sK3coWqqntUQKBgQDRJjJb77nA0soZBONl\nlfJMcH+ekwYrXv8VpTKdg0gsVck7eC6Awx9TDYijBCObStECRoiJf2Q7lhEGGLOE\njuzdhh1fC9CkXQ4MrIneBDoCwjN2yKZUZkikN9F4RXQRVwwE+1eBzd73v9LrBTxy\nbBRwKZoR29TC0z5db51k5psYFQKBgQDHuyK1BXrUWEEUpkaoVVoBXI2v7JC3Gl+d\nJ+aWBMHEAfbE3+tkXMwoUaFs+Ec8xS5raxDxOSkLwfTl7ZBtH7A61RNtlFac75AI\n+5EnKhEUtVYl6yX4oJvEeMgLP8JqyESLW+V2UBKj6Cwu3jgJcGT2KmCnovqSbRO0\nptMY2LHEPQKBgHnFYHqwt5jx4WLxuqfxxrIEqfkcpvHnjGMA3NhikEnn5JLwZTro\n4DsN3Sj0hvqqc8h8YpCTkDs1I1JGXXbndDeCF2W4TlD0MPLmHhsaoN/sS+Rz7Iul\nRdP+/8GjxnE2GjRoVkmoIJJkqBvX35rLHJc1UZPmRxjrvxrNmnkd3t0FAoGBALsE\nMbJYaDOuU3n3W4/BI57Ev/KrSrH4YvDvbIyp9ZkH0b10gZ+e+JcEIGe9bk6rvxRb\n0yhbwmA9A4fL0wEqu8PKwf9H93XJJxASJk8Kp6XBSeIFda+BC3mDMqS91dhQn0Xy\nDUCkJ2AMRFq6PrQv5olNEuXEyGUU92+fCWhpdsJtAoGAHmNYbxkD5++F4id9aRQl\n28LN6QqfsD2dz+wlkwTMNXndcN/HHDAU85xuis9WCsrNAxmV5yQJXUfrD4c6hUU4\nvfU/XF9TIEVryhyj96sAw3g4MJF/rcFDiSTZ6hVy8YPnDb3+RL+yCyoeTeDK+/Ls\nPHG+/7BXNIM010fNQ94lsLc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lucreciapedrozo@mythic-rain-404717.iam.gserviceaccount.com",
+  "client_id": "111159102485218551894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lucreciapedrozo%40mythic-rain-404717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
